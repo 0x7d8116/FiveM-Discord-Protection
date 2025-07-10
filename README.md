@@ -1,40 +1,29 @@
-### **Authify – Server & Member Backup**
+**AUTHIFY – The #1 Discord Recovery Solution** 
+The safe, free, and privacy friendly alternative to Restorecord, Restorio & GuildMergers, **no data selling, no hidden fees**
 
-Secure your Discord server with **custom bots**, advanced **recovery tools**, and powerful **automation**.  
-Authify is **completely free**, no hidden fees!
+__**Why Choose Authify?**__
 
-✅ Detect VPNs & block unwanted access  
-✅ Blacklist cheater & skid Discord servers, block them from verifying  
-✅ Backup **your entire server**, including **messages & members**  
-✅ Restore users to any of your servers if a team member nukes your server or if your leak server gets termed  
-✅ 100% privacy friendly, your data stays yours
+* **100% Free**  No paywalls, no premium tiers
+* **Server & Member Backups**  Real time, secure & encrypted
+* **Member Restore**  Easily pull back verified users to any server
+* **Auto-Restoration** after raids or server deletion
+* **Alt & VPN Detection**  Keep your community safe
+* **Custom Verify Pages**  Fully brandable & stylish
+* **Fast Support**  No waiting times, ever
 
-We're constantly improving:  
-– We fix bugs fast  
-– We implement community suggestions
+__**Built for the FiveM Community**__
 
-**Join now and switch to Authify**, the better alternative to Restorio, GuildMergers & Restorecord.  
-https://discord.gg/authify  
-For questions or more info, join our Discord!
+RP servers get nuked all the time, often by ex staff or malicious users.
+That’s why we created **Authify**, the all in one recovery system to bring back everything:
+**Channels, roles, messages, nicknames, user roles**, and most importantly, **your verified members**
 
-------------------------------------------------------------------------------------------------------------------------------------------
+__**Why Authify over Restorecord?**__
 
-### **Authify – Server- & Member-Backup**
+* **No data selling**
+* **No email/IP logging** (IPs are hashed & anonymized)
+* **Restorecord's database was leaked multiple times – Authify stays secure**
+* **Completely free, now and forever**
 
-Schütze deinen Discord-Server mit **eigenen Bots**, fortschrittlichen **Wiederherstellungstools** und starker **Automatisierung**.  
-Authify ist **komplett kostenlos**, keine versteckten Kosten!
 
-✅ VPNs erkennen & blockieren  
-✅ Cheater und Skid Server auf die Blacklist setzen, sie können sich nicht verifizieren  
-✅ Erstelle ein vollständiges Backup deines **Servers**, inklusive **Nachrichten & Mitglieder**  
-✅ Ziehe Mitglieder auf jeden deiner Server, z. B. wenn dein Server genukt wurde oder dein Leak-Server terminiert wurde  
-✅ 100 % datenschutzfreundlich, deine Daten bleiben deine
-
-Wir entwickeln ständig weiter:  
-– Fehler werden schnell behoben  
-– Community-Vorschläge setzen wir um
-
-**Wechsle jetzt zu Authify**, der besseren Alternative zu Restorio, GuildMergers & Restorecord.  
-https://discord.gg/authify  
-Für Fragen oder Infos – einfach unserem Discord beitreten!
-
+https://authify.services
+https://discord.gg/authify
